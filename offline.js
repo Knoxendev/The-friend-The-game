@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1626580011,
+	"version": 1626646225,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,10 @@
 		"images/xondetecotb-sheet0.png",
 		"images/boundaries.png",
 		"images/cover.png",
+		"images/boxyfont.png",
+		"images/buttonui.png",
+		"images/buttonsprite-sheet0.png",
+		"images/emoteui-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
